@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="Introduction"
+                android:textColor="#0000aa"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+                android:id="@+id/introduction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                app:autoPlay="false"
+                app:showFullScreenButton="false"
+                app:showYouTubeButton="false"
+                app:videoId="qbS8atFe0Q0" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="Basic Shapes of Geometry"
+                android:textColor="#0000aa"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Junior Certificate Geometry"
+                android:textColor="#0000aa"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingLeft="16dp"
+                android:paddingTop="8dp"
+                android:paddingRight="16dp"
+                android:text="This app allows you to learn and understand basic shapes such as the triangle or circle. Each shape or angle are split into two sections, the video explaining the concept and &quot;Practice&quot; which allows you to draw the shapes and angles. Furthermore, there are four sets of exercises to complete."
+                android:textColor="#000000"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingLeft="16dp"
+                android:paddingTop="8dp"
+                android:paddingRight="16dp"
+                android:text="You can pick the topic by tapping the hamburger symbol on the left. The &quot;Practice&quot; will have a video with a still image and a voiceover. The canvas
+        where you can draw your shapes will be coloured grey, just use your finger to draw. You can erase what you have done by tapping the three vertical dots on the top right of your screen and tapping 'Clear'."
+                android:textColor="#000000"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingLeft="16dp"
+                android:paddingTop="8dp"
+                android:paddingRight="16dp"
+                android:text="Furthermore, on the section explaining the concept, you can zoom in by first tapping the space outside the video and use the pinch motion to zoom in or out."
+                android:textColor="#000000"
+                android:textSize="16sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

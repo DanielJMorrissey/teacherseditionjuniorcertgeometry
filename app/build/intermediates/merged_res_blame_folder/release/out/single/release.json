@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_rightangle.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\rightangle.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_quadrilateral_exercises.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_quadrilateral_exercises.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_cyclicquadrilateral.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\cyclicquadrilateral.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_line_part_2.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_line_part_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_arc.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\arc.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_alternateangles.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\alternateangles.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_half_line.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_half_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_corresponding_angles_homework_three.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_corresponding_angles_homework_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_obtuse_angle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_obtuse_angle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_square.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_corresponding_angles_one.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_corresponding_angles_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_circumference.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\circumference.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_sector_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_sector_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_straight_angle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_straight_angle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_straight_angle_part_two.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_straight_angle_part_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_obtuse_angle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_obtuse_angle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_acuteangle.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\acuteangle.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_cyclic_quadrilateral_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_cyclic_quadrilateral_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_line_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_line_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_verticallyoppositeangles.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\verticallyoppositeangles.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_corresponding_angles_homework_4.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_corresponding_angles_homework_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_rhombus_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_rhombus_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_alternating_angles_homework_one.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_alternating_angles_homework_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_reflex_angle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_reflex_angle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_equilateraltriangle.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\equilateraltriangle.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_secant.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_secant.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_segment_circle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_segment_circle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_rectangle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_isoscelestriangle.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\isoscelestriangle.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_circle_exercises.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_circle_exercises.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_supplementary_angles.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_supplementary_angles.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_circle.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_chord_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_chord_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_scalene_triangle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_scalene_triangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_line_segment.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_line_segment.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_congruent_triangles_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_congruent_triangles_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_corresponding_angles.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_corresponding_angles.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_vertically_opposite_angles_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_vertically_opposite_angles_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_parallel_lines_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_parallel_lines_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_modulus_angle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_modulus_angle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_circle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_circle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_equilateral_triangle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_equilateral_triangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_triangle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_triangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_corresponding_angles_homework_two.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_corresponding_angles_homework_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_segment_circle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_segment_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_circumference.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_circumference.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_obtuseangle.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\obtuseangle.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_line_angles_questions.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_line_angles_questions.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_arc_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_arc_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_similar_triangles.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_similar_triangles.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_vertically_opposite_angles.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_vertically_opposite_angles.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_parallelagram.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_parallelagram.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_modulus_line_hw.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_modulus_line_hw.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_correspondingangles.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\correspondingangles.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_right_angle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_right_angle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_anglecircle.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\anglecircle.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_square_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_square_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_circle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_quadrilateral.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_quadrilateral.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_angle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_angle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_isosceles_triangle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_isosceles_triangle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_perpendicular_lines_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_perpendicular_lines_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_cyclic_quadrilateral.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_cyclic_quadrilateral.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_rhombus.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_rhombus.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_reflex_angle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_reflex_angle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_triangles_question.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_triangles_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_parallel_lines.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_parallel_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_secant_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_secant_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_sector.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_sector.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_tangent_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_tangent_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_half_line_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_half_line_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_line.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_similar_triangle_diminution_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_similar_triangle_diminution_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_supplementary_angles_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_supplementary_angles_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_straightangle.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\straightangle.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_introduction.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_introduction.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_matchingangles.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\matchingangles.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_right_angle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_right_angle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_reflexangle.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\reflexangle.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_modulus_line.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_modulus_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_alternating_angles_two.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_alternating_angles_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_modulus_angle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_modulus_angle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_triangle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_triangle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_fillinworddiagram.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\fillinworddiagram.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_circlelines.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\circlelines.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_scalenetriangle.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\scalenetriangle.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_chord.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_chord.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_parallelagram_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_parallelagram_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_congruent_triangles.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_congruent_triangles.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_acute_angle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_acute_angle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_straight_angle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_straight_angle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_tangent.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_tangent.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_rectangle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_rectangle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_acute_angle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_acute_angle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_perpendicular_lines.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_perpendicular_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_circumference_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_circumference_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_scalene_triangle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_scalene_triangle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_equilateral_triangle_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_equilateral_triangle_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_arc.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_arc.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_quadrilateral_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_quadrilateral_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_supplementaryangles.png.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\supplementaryangles.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_radius.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_alternating_angles.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_alternating_angles.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_similar_triangles_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_similar_triangles_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_angle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_angle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_diameter_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_diameter_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable_border.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_line_segment_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_line_segment_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_diameter.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_diameter.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_radius_homework.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_radius_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_isosceles_triangle.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\src\\main\\res\\layout\\fragment_isosceles_triangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\danie\\BasicShapesOfGeometryTeachersEdition\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    }
+]

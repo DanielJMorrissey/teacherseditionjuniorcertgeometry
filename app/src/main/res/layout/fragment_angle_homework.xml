@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:id="@+id/angleHwVid"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:padding="16dp"
+        app:autoPlay="false"
+        app:showFullScreenButton="false"
+        app:showYouTubeButton="false"
+        app:videoId="EtfbQmo4ZN4" />
+
+
+    <com.josullivan.basicshapesofgeometryteachersedition.PaintView
+        android:id="@+id/anglePaintView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="8dp"
+
+        />
+</LinearLayout>

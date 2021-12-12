@@ -1,0 +1,2 @@
+rootProject.name = "Basic Shapes Of Geometry Teachers Edition"
+include ':app'

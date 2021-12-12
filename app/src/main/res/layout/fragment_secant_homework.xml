@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:id="@+id/secantHwVid"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:padding="16dp"
+        app:autoPlay="false"
+        app:showFullScreenButton="false"
+        app:showYouTubeButton="false"
+        app:videoId="wYnU6BO0xAI" />
+
+
+    <com.josullivan.basicshapesofgeometryteachersedition.PaintView
+        android:id="@+id/secantPaintView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="8dp"
+
+        />
+</LinearLayout>

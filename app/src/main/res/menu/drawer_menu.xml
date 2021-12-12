@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <!--menu files to show in navigation drawer-->
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_introduction"
+            android:title="Introduction" />
+
+        <item
+            android:enabled="false"
+            android:title="Points, Lines and Angles" />
+
+        <item
+            android:id="@+id/line"
+            android:title="The Line Part 1" />
+
+        <item
+            android:id="@+id/line2"
+            android:title="The Line Part 2" />
+
+        <item
+            android:id="@+id/linelhw"
+            android:title="Line Practice" />
+
+        <item
+            android:id="@+id/line_segment"
+            android:title="Line Segment"
+
+            />
+        <item
+            android:id="@+id/line_segment_hw"
+            android:title="Line Segment Practice" />
+        <item
+            android:id="@+id/halfLine"
+            android:title="Half Line" />
+        <item
+            android:id="@+id/halfLineHw"
+            android:title="Half Line Practice" />
+        <item
+            android:id="@+id/modulusLine"
+            android:title="Modulus Of A Line" />
+        <item
+            android:id="@+id/modulusLineHw"
+            android:title="Modulus Of A Line Practice" />
+        <item
+            android:id="@+id/angle"
+            android:title="Angle" />
+        <item
+            android:id="@+id/angleHw"
+            android:title="Angle Practice" />
+        <item
+            android:id="@+id/straightAngle"
+            android:title="Straight Angle Part 1" />
+        <item
+            android:id="@+id/straightAngle2"
+            android:title="Straight Angle Part 2" />
+        <item
+            android:id="@+id/straightAngleHw"
+            android:title="Straight Angle Practice" />
+        <item
+            android:id="@+id/modulusAngle"
+            android:title="Modulus Of An Angle" />
+        <item
+            android:id="@+id/modulusAngleHw"
+            android:title="Modulus Of An Angle Practice" />
+        <item
+            android:id="@+id/acuteAngle"
+            android:title="Acute Angle" />
+        <item
+            android:id="@+id/acuteAngleHw"
+            android:title="Acute Angle Practice" />
+        <item
+            android:id="@+id/rightAngle"
+            android:title="Right Angle" />
+        <item
+            android:id="@+id/rightAngleHw"
+            android:title="Right Angle Practice" />
+        <item
+            android:id="@+id/obtuseAngle"
+            android:title="Obtuse Angle" />
+        <item
+            android:id="@+id/obtuseAngleHw"
+            android:title="Obtuse Angle Practice" />
+        <item
+            android:id="@+id/reflexAngle"
+            android:title="Reflex Angle" />
+        <item
+            android:id="@+id/reflexAngleHw"
+            android:title="Reflex Angle Practice" />
+        <item
+            android:id="@+id/parallelLines"
+            android:title="Parallel Lines" />
+        <item
+            android:id="@+id/parallelLinesHw"
+            android:title="Parallel Lines Practice" />
+        <item
+            android:id="@+id/perpendicularLines"
+            android:title="Perpendicular Lines" />
+        <item
+            android:id="@+id/perpendicularLinesHw"
+            android:title="Perpendicular Lines Practice" />
+        <item
+            android:id="@+id/supplementaryAngles"
+            android:title="Supplementary Angles" />
+        <item
+            android:id="@+id/supplementaryAnglesHw"
+            android:title="Supplementary Angles Practice" />
+        <item
+            android:id="@+id/verticallyOppositeAngles"
+            android:title="Vertically-Opposite Angles" />
+        <item
+            android:id="@+id/verticallyOppositeAnglesHw"
+            android:title="Vertically-Opposite Angles Practice" />
+        <item
+            android:id="@+id/correspondingAngles"
+            android:title="Corresponding Angles" />
+        <item
+            android:id="@+id/correspondingAnglesHw1"
+            android:title="Corresponding Angles Practice 1" />
+        <item
+            android:id="@+id/correspondingAnglesHw2"
+            android:title="Corresponding Angles Practice 2" />
+        <item
+            android:id="@+id/correspondingAnglesHw3"
+            android:title="Corresponding Angles Practice 3" />
+        <item
+            android:id="@+id/correspondingAnglesHw4"
+            android:title="Corresponding Angles Practice 4" />
+        <item
+            android:id="@+id/alternatingAngles"
+            android:title="Alternate Angles" />
+        <item
+            android:id="@+id/alternatingAnglesHw1"
+            android:title="Alternate Angles Practice 1" />
+        <item
+            android:id="@+id/alternatingAnglesHw2"
+            android:title="Alternate Angles Practice 2" />
+
+        <item
+            android:id="@+id/lineAndAnglesQuestions"
+            android:title="Points, Lines And Angles Exercises" />
+
+        <item
+            android:enabled="false"
+            android:title="Triangles" />
+
+        <item
+            android:id="@+id/triangle"
+            android:title="Triangle" />
+        <item
+            android:id="@+id/triangleHw"
+            android:title="Triangle Practice" />
+        <item
+            android:id="@+id/scaleneTriangle"
+            android:title="Scalene Triangle" />
+        <item
+            android:id="@+id/scaleneTriangleHw"
+            android:title="Scalene Triangle Practice" />
+        <item
+            android:id="@+id/isoscelesTriangle"
+            android:title="Isosceles Triangle" />
+        <item
+            android:id="@+id/isoscelesTriangleHw"
+            android:title="Isosceles Triangle Practice" />
+        <item
+            android:id="@+id/equilateralTriangle"
+            android:title="Equilateral Triangle" />
+        <item
+            android:id="@+id/equilateralTriangleHw"
+            android:title="Equilateral Triangle Practice" />
+        <item
+            android:id="@+id/similarTriangles"
+            android:title="Similar Triangles" />
+        <item
+            android:id="@+id/similarTrianglesEnlargeHw"
+            android:title="Similar Triangles Enlargemnt Practice" />
+        <item
+            android:id="@+id/similarTrianglesDiminHw"
+            android:title="Similar Triangles Diminution Practice" />
+        <item
+            android:id="@+id/congruentTriangles"
+            android:title="Congruent Triangles" />
+        <item
+            android:id="@+id/congruentTrianglesHw"
+            android:title="Congruent Triangles Practice" />
+
+        <item
+            android:id="@+id/triangleExercise"
+            android:title="Triangle Exercises" />
+
+        <item
+            android:enabled="false"
+            android:title="Quadrilaterals" />
+
+        <item
+            android:id="@+id/quadrilateral"
+            android:title="Quadrilateral" />
+        <item
+            android:id="@+id/quadrilateralHw"
+            android:title="Quadrilateral Practice" />
+        <item
+            android:id="@+id/parallelagram"
+            android:title="Parallelagram" />
+        <item
+            android:id="@+id/parallelagramHw"
+            android:title="Parallelagram Practice" />
+        <item
+            android:id="@+id/rhombus"
+            android:title="Rhombus" />
+        <item
+            android:id="@+id/rhombusHw"
+            android:title="Rhombus Practice" />
+        <item
+            android:id="@+id/rectangle"
+            android:title="Rectangle" />
+        <item
+            android:id="@+id/rectangleHw"
+            android:title="Rectangle Practice" />
+        <item
+            android:id="@+id/square"
+            android:title="Square" />
+        <item
+            android:id="@+id/squareHw"
+            android:title="Square Practice" />
+        <item
+            android:id="@+id/quadrilateralExercises"
+            android:title="Quadrilateral Exercises" />
+
+        <item
+            android:enabled="false"
+            android:title="Circles" />
+
+        <item
+            android:id="@+id/circle"
+            android:title="Circle" />
+        <item
+            android:id="@+id/circleHw"
+            android:title="Circle Practice" />
+        <item
+            android:id="@+id/circumference"
+            android:title="Circumference" />
+        <item
+            android:id="@+id/circumferenceHw"
+            android:title="Circumference Practice" />
+        <item
+            android:id="@+id/arc"
+            android:title="Arc" />
+        <item
+            android:id="@+id/arcHw"
+            android:title="Arc Practice" />
+        <item
+            android:id="@+id/diameter"
+            android:title="Diameter" />
+        <item
+            android:id="@+id/diameterHw"
+            android:title="Diameter Practice" />
+        <item
+            android:id="@+id/radius"
+            android:title="Radius" />
+        <item
+            android:id="@+id/radiusHw"
+            android:title="Radius Practice" />
+        <item
+            android:id="@+id/chord"
+            android:title="Chord" />
+        <item
+            android:id="@+id/chordHw"
+            android:title="Chord Practice" />
+        <item
+            android:id="@+id/secant"
+            android:title="Secant" />
+        <item
+            android:id="@+id/secantHw"
+            android:title="Secant Practice" />
+        <item
+            android:id="@+id/tangent"
+            android:title="Tangent" />
+        <item
+            android:id="@+id/tangentHw"
+            android:title="Tangent Practice" />
+        <item
+            android:id="@+id/segmentCircle"
+            android:title="Segment Of A Circle" />
+        <item
+            android:id="@+id/segmentCircleHw"
+            android:title="Segment Of A Circle Practice" />
+        <item
+            android:id="@+id/sector"
+            android:title="Sector" />
+        <item
+            android:id="@+id/sectorHw"
+            android:title="Sector Practice" />
+        <item
+            android:id="@+id/cyclicQuadrilateral"
+            android:title="Cyclic Quadrilateral" />
+        <item
+            android:id="@+id/cyclicQuadrilateralHw"
+            android:title="Cyclic Quadrilateral Practice" />
+
+        <item
+            android:id="@+id/circleExercises"
+            android:title="Circle Exercises" />
+    </group>
+
+
+</menu>
